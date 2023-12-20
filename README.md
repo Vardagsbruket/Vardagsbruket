@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Diana Undén</h1>
 <h3 align="center">A passionate junior developer from Stockholm, Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vardagsbruket&label=Profile%20views&color=0e75b6&style=flat" alt="vardagsbruket" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vardagsbruket" alt="vardagsbruket" /></a> </p>
-
 - 🔭 I’m learning React at Technigo, Sweden. A project I'm currently working on is [ReShare](https://github.com/Vardagsbruket/ReShare.git)
 
 - 🌱 I’m currently learning **JavaScript, React, Redux, Routes, Bootstrap and Mongo DB**
@@ -27,3 +23,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vardagsbruket&show_icons=true&locale=en&layout=compact" alt="vardagsbruket" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vardagsbruket&show_icons=true&locale=en" alt="vardagsbruket" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vardagsbruket&label=Profile%20views&color=0e75b6&style=flat" alt="vardagsbruket" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vardagsbruket" alt="vardagsbruket" /></a> </p>
+
