@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Diana Undén</h1>
 <h3 align="center">A passionate junior developer from Stockholm, Sweden</h3>
 
-- 🔭 I’m learning React at Technigo, Sweden. A project I'm currently working on is [ReShare](https://github.com/Vardagsbruket/ReShare.git)
+- 🔭 I just graduated in JavaScript and React from Technigo, Sweden with strong emphasis on delivering projects using Agile methodologies. Checkout my final project: [ReShare](https://github.com/Vardagsbruket/ReShare.git) 
+    It's tech stack includes responsive web design, JavaScript, React Vite, Redux, Rest API calls, Routes, CSS, Serverless functions and Mongo DB.
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, Routes, Bootstrap and Mongo DB**
+- 🌱 I’m currently learning **JavaScript, React, Redux, Routes, Bootstrap**
 
 - 📫 How to reach me **diana.unden@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dianaunden/](https://www.linkedin.com/in/dianaunden/)
+- 📄 Experienced project manager with experiences from both private and public sector. Check out my CV on [LinkedIn](https://www.linkedin.com/in/dianaunden/)
 
-- ⚡ Fun fact: I have a Ba in Business and International Relations and a MSc in Globalization, Environment and Social Change (geography). I also have a degree in pottery.
+- ⚡ I have a Ba in Business and International Relations and a MSc in Globalization, Environment and Social Change (geography). I also have a degree in pottery.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
