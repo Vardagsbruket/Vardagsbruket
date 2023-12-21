@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **diana.unden@gmail.com**
 
-- 📄 Experienced project manager with experiences from both private and public sector. Check out my CV on [LinkedIn](https://www.linkedin.com/in/dianaunden/)
+- 📄 Experienced project manager with experiences from both private and public sector mainly in quality development, communications and business strategy. Check out my CV on [LinkedIn](https://www.linkedin.com/in/dianaunden/)
 
 - ⚡ I have a Ba in Business and International Relations and a MSc in Globalization, Environment and Social Change (geography). I also have a degree in pottery.
 
