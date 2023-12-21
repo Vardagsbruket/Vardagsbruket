@@ -3,7 +3,7 @@
 <h3 align="center">A passionate junior developer from Stockholm, Sweden</h3>
 
 - 🔭 I just graduated in JavaScript and React from Technigo, Sweden with strong emphasis on delivering projects using Agile methodologies.
-    - Checkout my final project ReShare on [GitHub](https://github.com/Vardagsbruket/ReShare.git) or [Live] (https://stirring-florentine-c4bb3f.netlify.app/)
+    - Checkout my final project ReShare on [GitHub](https://github.com/Vardagsbruket/ReShare.git) or [Live](https://stirring-florentine-c4bb3f.netlify.app/)
     - Its tech stack includes responsive web design, JavaScript, React Vite, Redux, Rest API calls, Routes, CSS, Serverless functions and Mongo DB.
 
 - 🌱 I’m currently learning **JavaScript, React, Redux, Routes, Bootstrap**
