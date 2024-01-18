@@ -12,9 +12,9 @@
     - Happy thoughts [GitHub](https://github.com/Vardagsbruket/technigo_project-happy-thoughts-vite.git) or [Live](https://technigo-project-happy-thoughts-app.netlify.app/)
     - Movie site [GitHub](https://github.com/Vardagsbruket/technigo_project-movies-vite.git) or [Live](https://genuine-pasca-c3840a.netlify.app/)
 
-- Experience with agile work and pair/mob programming
+- Experience with agile work and pair/mob programming from multiple projects using VS Code liveshare and Github.
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, Routes, Bootstrap**
+- 🌱 I’m currently learning **JavaScript, React, Redux, Routes, Bootstrap**. I'm also studying introduction to Java at LTU and Fullstack Open and University of Helsinki.
 
 - 📫 How to reach me **diana.unden@gmail.com**
 
