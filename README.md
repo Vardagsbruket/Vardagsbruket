@@ -6,6 +6,14 @@
     - Checkout my final project ReShare on [GitHub](https://github.com/Vardagsbruket/ReShare.git) or [Live](https://stirring-florentine-c4bb3f.netlify.app/)
     - Its tech stack includes responsive web design, JavaScript, React Vite, Redux, Rest API calls, Routes, CSS, Serverless functions and Mongo DB.
 
+- View some of my other projects live
+    - Todo app using Redux on [GitHub](https://github.com/Vardagsbruket/Technigo_project-todos-redux.git) or [Live](https://gilded-swan-627c20.netlify.app/)
+    - Swedish Quiz [GitHub](https://github.com/Vardagsbruket/technigo_project-redux-quiz.git) or [Live](https://funn-quizz.netlify.app/)
+    - Happy thoughts [GitHub](https://github.com/Vardagsbruket/technigo_project-happy-thoughts-vite.git) or [Live](https://technigo-project-happy-thoughts-app.netlify.app/)
+    - Movie site [GitHub](https://github.com/Vardagsbruket/technigo_project-movies-vite.git) or [Live](https://genuine-pasca-c3840a.netlify.app/)
+
+- Experience with agile work and pair/mob programming
+
 - 🌱 I’m currently learning **JavaScript, React, Redux, Routes, Bootstrap**
 
 - 📫 How to reach me **diana.unden@gmail.com**
